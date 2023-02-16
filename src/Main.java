@@ -1,6 +1,19 @@
 public class Main {
     public static void main(String[] args) {
+
+
+
         Soham();
+        mayur();
+        Car obj = new Car(2018,"black");
+
+        obj.showDetails();
+        obj.blowHorn();
+        obj.run();
+
+
+
+
     }
 
     public static void Soham(){
@@ -10,7 +23,6 @@ public class Main {
     public static void mayur(){
         System.out.println("This is Mayur's method!");
     }
-
 
 
 }
