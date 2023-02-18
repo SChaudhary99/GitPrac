@@ -12,7 +12,6 @@ public class Main {
         Computer comObj = new Computer(4,1024,"Dell","Black");
 
 
-
     }
 
     public static void Soham(){
