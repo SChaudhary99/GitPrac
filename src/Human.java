@@ -7,7 +7,8 @@ public class Human {
     }
     public void eat(){
         System.out.println("I am eating");
-        System.out.println("I am drinking 2");
+        System.out.println("I am drinking 12");
+        System.out.println("I am drinking 34");
     }
 
 }
